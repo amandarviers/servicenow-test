@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="pc_software_cat_item">
+    <pc_software_cat_item action="INSERT_OR_UPDATE">
+        <access_type/>
+        <active>true</active>
+        <auto_created>true</auto_created>
+        <availability>on_both</availability>
+        <billable>false</billable>
+        <category display_value="Software">2809952237b1300054b6a3549dbe5dd4</category>
+        <checked_out/>
+        <cost>139.99</cost>
+        <custom_cart/>
+        <delivery_plan/>
+        <delivery_plan_script/>
+        <delivery_time>1970-01-02 00:00:00</delivery_time>
+        <description><![CDATA[
+			<p>
+				<font size="3">
+					<span>
+						Adobe Acrobat allows you to view, create, manipulate and print files in the Portable Document Format (PDF). </span>
+				</font>
+			</p>
+			<p>
+				<span>Features include:</span>
+			</p>
+			<ul><li>
+					<span style="font-size: 10.0pt;">Convert PDFs to other formats </span>
+				</li><li>
+					<span style="font-size: 10.0pt;">Edit PDF documents </span>
+				</li><li>
+					<span style="font-size: 10.0pt;">Create and analyze forms </span>
+				</li><li>
+					<span style="font-size: 10.0pt;">Create PDF files </span>
+				</li><li>
+					<span style="font-size: 10.0pt;">Merge and combine files </span>
+				</li><li>
+					<span style="font-size: 10.0pt;">Prepare files consistently </span>
+				</li><li>
+					<span style="font-size: 10.0pt;">Work with new cloud services</span>
+				</li></ul>]]></description>
+        <display_price_property>non_zero</display_price_property>
+        <entitlement_script/>
+        <features/>
+        <flow_designer_flow/>
+        <fulfillment_automation_level/>
+        <group/>
+        <hide_sp>false</hide_sp>
+        <icon/>
+        <ignore_price>false</ignore_price>
+        <image/>
+        <list_price>0</list_price>
+        <location/>
+        <mandatory_attachment>false</mandatory_attachment>
+        <meta/>
+        <mobile_hide_price>false</mobile_hide_price>
+        <mobile_picture/>
+        <mobile_picture_type>use_mobile_picture</mobile_picture_type>
+        <model display_value="Adobe Systems Acrobat DC Professional">79c1767f37601000deeabfc8bcbe5d4e</model>
+        <name>Acrobat</name>
+        <no_attachment_v2>false</no_attachment_v2>
+        <no_cart>false</no_cart>
+        <no_cart_v2>false</no_cart_v2>
+        <no_delivery_time_v2>false</no_delivery_time_v2>
+        <no_order>false</no_order>
+        <no_order_now>false</no_order_now>
+        <no_proceed_checkout>false</no_proceed_checkout>
+        <no_quantity>false</no_quantity>
+        <no_quantity_v2>false</no_quantity_v2>
+        <no_save_as_draft>false</no_save_as_draft>
+        <no_search>false</no_search>
+        <no_wishlist_v2>false</no_wishlist_v2>
+        <omit_price>false</omit_price>
+        <order>0</order>
+        <ordered_item_link/>
+        <owner/>
+        <picture/>
+        <preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=7198552237b1300054b6a3549dbe5dea&amp;sysparm_preview=true", "summary");</preview>
+        <price>139.99</price>
+        <product_id/>
+        <published_ref/>
+        <recurring_frequency/>
+        <recurring_price>0</recurring_price>
+        <request_method/>
+        <roles/>
+        <sc_catalogs>e0d08b13c3330100c8b837659bba8fb4</sc_catalogs>
+        <sc_ic_item_staging/>
+        <sc_ic_version/>
+        <sc_template/>
+        <short_description>Adobe Acrobat</short_description>
+        <show_variable_help_on_load>false</show_variable_help_on_load>
+        <specs/>
+        <start_closed>false</start_closed>
+        <state/>
+        <sys_class_name>pc_software_cat_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2013-12-07 13:17:20</sys_created_on>
+        <sys_id>7198552237b1300054b6a3549dbe5dea</sys_id>
+        <sys_mod_count>27</sys_mod_count>
+        <sys_name>Acrobat</sys_name>
+        <sys_package display_value="Service Catalog core applications" source="com.glideapp.servicecatalog">105e305c9080021087de3cfccdb0d6f3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Service Catalog">92ccfe8197090610d914bb46f053afc1</sys_scope>
+        <sys_update_name>pc_software_cat_item_7198552237b1300054b6a3549dbe5dea</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-18 15:15:27</sys_updated_on>
+        <taxonomy_topic display_value="Software and applications">5c4513e7c3053010069aec4b7d40dd01</taxonomy_topic>
+        <template/>
+        <template_manager_roles/>
+        <type>item</type>
+        <upc/>
+        <use_sc_layout>true</use_sc_layout>
+        <vendor display_value="Adobe Systems">b7e8b5c4c0a80169008b49e468920048</vendor>
+        <vendor_catalog_item/>
+        <version>1</version>
+        <visible_bundle>true</visible_bundle>
+        <visible_guide>true</visible_guide>
+        <visible_standalone>true</visible_standalone>
+        <workflow display_value="Procurement Process Flow - Software">c2c3f55037023000158bbfc8bcbe5d6d</workflow>
+    </pc_software_cat_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=7198552237b1300054b6a3549dbe5dea"/>
+    <fx_price action="delete_multiple" query="id=7198552237b1300054b6a3549dbe5dea"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>139.99</amount>
+        <currency display_value="USD">USD</currency>
+        <field>price</field>
+        <id>7198552237b1300054b6a3549dbe5dea</id>
+        <parent/>
+        <reference_amount>139.99</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2013-12-07 13:17:49</sys_created_on>
+        <sys_id>0439d52237b1300054b6a3549dbe5dd0</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-03-17 21:14:25</sys_updated_on>
+        <table>pc_software_cat_item</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>recurring_price</field>
+        <id>7198552237b1300054b6a3549dbe5dea</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2013-12-07 13:17:49</sys_created_on>
+        <sys_id>c839d52237b1300054b6a3549dbe5dd0</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-03-17 21:14:25</sys_updated_on>
+        <table>pc_software_cat_item</table>
+        <type>calculated</type>
+    </fx_price>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="Service Catalog">92ccfe8197090610d914bb46f053afc1</claim_owner_scope>
+        <claim_timestamp>18e5221c0c20000001</claim_timestamp>
+        <metadata_update_name>pc_software_cat_item_7198552237b1300054b6a3549dbe5dea</metadata_update_name>
+        <previous_claim_app_version>1.0.0</previous_claim_app_version>
+        <previous_claim_name>Service Catalog</previous_claim_name>
+        <previous_claim_scope>92ccfe8197090610d914bb46f053afc1</previous_claim_scope>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-18 15:15:27</sys_created_on>
+        <sys_id>71801b4d97490610d914bb46f053afc9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-18 15:15:27</sys_updated_on>
+    </sys_claim>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="Service Catalog">92ccfe8197090610d914bb46f053afc1</claim_owner_scope>
+        <claim_timestamp>18e5221c0c10000001</claim_timestamp>
+        <metadata_update_name>pc_software_cat_item_7198552237b1300054b6a3549dbe5dea</metadata_update_name>
+        <previous_claim_app_version/>
+        <previous_claim_name>com.glideapp.servicecatalog</previous_claim_name>
+        <previous_claim_scope>com.glideapp.servicecatalog</previous_claim_scope>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-18 15:15:27</sys_created_on>
+        <sys_id>35801b4d97490610d914bb46f053afc9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-18 15:15:27</sys_updated_on>
+    </sys_claim>
+</record_update>
