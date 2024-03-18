@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="1e92d70197890610d914bb46f053afd6" label="Sample table" max_length="40" name="u_sample_table" type="collection"/>
+</database>
